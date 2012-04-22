@@ -174,11 +174,11 @@ body div.line[type*=action][highlight=true] {
 }
 
 body div[type="privmsg"] .message {
-	color: #aaa;
+	color: #839496;
 }
 
 body div[type*=privmsg] p[type*=myself] .message {
-	color: #839496;
+	color: #93a1a1;
 }
 
 body div[type*=privmsg] .sender {
@@ -192,7 +192,7 @@ body div.line[type*=action] {
 }
 
 body div[type="action"] .message {
-	color: #aaa;
+	color: #839496;
 }
 
 body div[type*=action] .sender {
@@ -201,7 +201,7 @@ body div[type*=action] .sender {
 
 body div[type*=action] p[type*=myself] .sender,
 body div[type*=action] p[type*=myself] .message {
-	color: #B52CF6;
+	color: #93a1a1;
 }
 
 body[dir=ltr] div[type*=action] .sender:before {
