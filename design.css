@@ -79,15 +79,15 @@ body[dir=rtl] .time {
 /* Links */
 
 a {
-    color: #0080FF;
-    border-color: #0080FF;
+    color: #93a1a1;
+    border-color: #93a1a1;
     text-decoration: none;
     border-bottom: dotted 1px;
 }
 
 a:hover {
-    color: #40A0FF;
-    border-color: #40A0FF;
+    color: #eee8d5;
+    border-color: #eee8d5;
 }
 
 /* Topic Bar */
