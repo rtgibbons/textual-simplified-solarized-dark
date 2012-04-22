@@ -144,17 +144,17 @@ div[id=mark] {
 body div.line[type*=ctcp],
 body div.line[type*=notice],
 body div.line[type*=wallops] {
-	color: #f00;
+	color: #dc322f;
 	z-index: 191;
-	background: #400;
+	background: rgba(220, 50, 47, 0.4); /* dc322f with opacity */
 	position: relative;
 	padding: 2px 5px 2px 5px;
-	border-top: 1px solid #811;
-	border-bottom: 1px solid #811;
+	border-top: 1px solid #dc322f;
+	border-bottom: 1px solid #dc322f;
 }
 
 body div[type*=notice] .sender {
-	color: #f00;
+	color: #dc322f !important;
 	font-weight: 700;
 }
 
