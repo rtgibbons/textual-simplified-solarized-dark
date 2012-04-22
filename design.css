@@ -65,12 +65,12 @@ body[dir=rtl] .sender {
 /* Time */
 
 body[dir=ltr] .time {
-	color: #666;
+	color: #93a1a1;
     white-space: nowrap; 
 }
 
 body[dir=rtl] .time {
-	color: #666;
+	color: #93a1a1;
     white-space: nowrap; 
 	padding-left: 0.4em;
     display: inline-block;
@@ -254,7 +254,7 @@ body div.line[type*=mode],
 body div.line[type*=topic],
 body div.line[type*=website] {
  	padding: 3px 5px 3px 5px;
-    color: #666;
+    color: #93a1a1;
 }
 
 body[dir=ltr] div[type*=join] .message:before {
