@@ -1,3 +1,5 @@
 This style is a modified and stripped down version of 
 the "Simplified" theme developed by "Cowboy" Ben Alman
 (http://benalman.com/). It is copyright to him. 
+
+Updated Colors from Solarized by Ethan Schoonoverhttps://github.com/altercation/solarized/
