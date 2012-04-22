@@ -259,7 +259,7 @@ body div.line[type*=website] {
 
 body[dir=ltr] div[type*=join] .message:before {
 	content: "→";
-  	color: #0c0;
+	color: #859900;
   	margin-right: 0.4em;
 }
 
@@ -267,19 +267,19 @@ body[dir=ltr] div[type*=kick] .message:before,
 body[dir=ltr] div[type*=part] .message:before,
 body[dir=ltr] div[type*=quit] .message:before {
 	content: "←";
-  	color: #e00;
+	color: #dc322f;
   	margin-right: 0.4em;
 }
 
 body[dir=ltr] div[type*=nick] .message:before {
 	content:"•";
-  	color: #0c0;
+	color: #859900;
   	margin-right: 0.4em;
 }
 
 body[dir=rtl] div[type*=join] .message:before {
 	content: "→";
-  	color: #0c0;
+	color: #859900;
   	margin-left: 0.4em;
 }
 
@@ -287,13 +287,13 @@ body[dir=rtl] div[type*=kick] .message:before,
 body[dir=rtl] div[type*=part] .message:before,
 body[dir=rtl] div[type*=quit] .message:before {
 	content: "←";
-  	color: #e00;
+	color: #dc322f;
   	margin-left: 0.4em;
 }
 
 body[dir=rtl] div[type*=nick] .message:before {
 	content:"•";
-  	color: #0c0;
+	color: #859900;
   	margin-left: 0.4em;
 }
 
