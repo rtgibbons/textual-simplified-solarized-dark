@@ -30,7 +30,7 @@ green     #859900
 }	
 
 body {
-	color: #fdf6e3;
+	color: #839496;
 	height: 100%;
  	z-index: 100;
 	font-size: 12px;
@@ -178,7 +178,7 @@ body div[type="privmsg"] .message {
 }
 
 body div[type*=privmsg] p[type*=myself] .message {
-	color: #fdf6e3;
+	color: #839496;
 }
 
 body div[type*=privmsg] .sender {
