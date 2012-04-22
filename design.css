@@ -254,7 +254,7 @@ body div.line[type*=mode],
 body div.line[type*=topic],
 body div.line[type*=website] {
  	padding: 3px 5px 3px 5px;
-    color: #93a1a1;
+    color: #586e75;
 }
 
 body[dir=ltr] div[type*=join] .message:before {
