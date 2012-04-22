@@ -30,13 +30,13 @@ green     #859900
 }	
 
 body {
-	color: #fff;
+	color: #fdf6e3;
 	height: 100%;
  	z-index: 100;
 	font-size: 12px;
 	overflow: hidden;
 	overflow-y: visible;
-	background-color: #000;
+	background-color: #002b36;
 	font-family: "Lucida Grande";
 }
 
@@ -96,7 +96,7 @@ a:hover {
     top: 0;
     left: 0;
     right: 0;
-    color: #000;
+    color: #002b36;
     z-index: 400;
     opacity: 0.95;
     position: fixed;
@@ -178,7 +178,7 @@ body div[type="privmsg"] .message {
 }
 
 body div[type*=privmsg] p[type*=myself] .message {
-	color: #fff;
+	color: #fdf6e3;
 }
 
 body div[type*=privmsg] .sender {
