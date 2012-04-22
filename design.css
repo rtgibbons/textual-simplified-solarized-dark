@@ -233,13 +233,13 @@ body div.line[type*=system],
 body div.line[type*=debug_send],
 body div.line[type*=error_reply],
 body div.line[type*=debug_receive] {
-	color: #777;
+	color: #839496;
 	z-index: 190;
-	background: #222;
+	background: #073642;
 	position: relative;
 	padding: 2px 5px 2px 5px;
-	border-top: 1px solid #444;
-	border-bottom: 1px solid #444;
+	border-top: 1px solid #586e75;
+	border-bottom: 1px solid #586e75;
 }
 
 /* GENERAL EVENT */
