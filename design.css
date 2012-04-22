@@ -96,24 +96,24 @@ a:hover {
     top: 0;
     left: 0;
     right: 0;
-    color: #002b36;
+    color: #839496;
     z-index: 400;
     opacity: 0.95;
     position: fixed;
-    background: #CFD4DD;
+    background: #fdf6e3;
     padding: 2px 0.5em 3px;
-    border-bottom: 1px solid #8387B6;
+    border-bottom: 1px solid #073642;
     -webkit-box-shadow: 0 1px 5px #777;
 }
 
 #topic_bar a {
-    color: #00e;
-    border-color: #00e;
+    color: #586e75;
+    border-color: #586e75;
 }
 
 #topic_bar a:hover {
-    color: #0080FF;
-    border-color: #0080FF;
+    color: #073642;
+    border-color: #073642;
 }
 
 /* Images */
