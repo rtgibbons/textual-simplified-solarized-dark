@@ -168,9 +168,9 @@ body div.line[type*=privmsg][highlight=true],
 body div.line[type*=action][highlight=true] {
 	font-weight: normal;
 	padding: 2px 5px 2px 5px;
-	border-top: 1px solid #988C00;
-	border-bottom: 1px solid #988C00;
-	background-color: #362C00 !important;
+	border-top: 1px solid #b58900;
+	border-bottom: 1px solid #b58900;
+	background-color: rgba(203, 75, 22, 0.3) !important;
 }
 
 body div[type="privmsg"] .message {
