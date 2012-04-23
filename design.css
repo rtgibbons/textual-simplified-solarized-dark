@@ -497,3 +497,10 @@ body .inline_nickname[colornumber='30'] {
 .effect[bgcolor-number='13'] { background-color: #ff00ff; }
 .effect[bgcolor-number='14'] { background-color: #888888; }
 .effect[bgcolor-number='15'] { background-color: #cccccc; }
+
+/* extras */
+.ellipsis {
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+}

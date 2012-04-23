@@ -21,4 +21,7 @@
 // Textual.on_ct_nick: function() { app.setNick(event.target.innerHTML); }
 // Textual.on_nick = function() { app.setNick(event.target.getAttribute("nick")); }
 
+
+/* Using script.js as a loader */
 Textual.include_js('lib/zepto.min.js');
+Textual.include_js('lib/simplified-solarized.js');
