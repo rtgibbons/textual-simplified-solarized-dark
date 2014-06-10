@@ -21,8 +21,8 @@ At this point, you might need to restart Linkinus to see the new changes.
 
 ### Option 2 - Git
 
-1. cd `~/Library/Containers/com.codeux.irc.textual/Data/Library/Application Support/Textual IRC/Styles`
-2. git clone git://github.com/rtgibbons/textual-simplified-solarized-dark.git`
+1. `cd ~/Library/Containers/com.codeux.irc.textual/Data/Library/Application Support/Textual IRC/Styles`
+2. `git clone git://github.com/rtgibbons/textual-simplified-solarized-dark.git`
 
 
 [textual]: http://www.codeux.com/textual/
